@@ -1,0 +1,9 @@
+<h3>Cu ce ne ocupăm...</h3>
+Traducem aplicații...
+<h3>Cum se folosește? (dacă ești un enfo traducator)</h3>
+1.  Dai fork la proiect de pe discord (sau îl clonezi doar dacă nu ști cum sa folosesti Github)<br> 
+2. Editezi fișierul en.json  și fișierele adiționale din lang/ și le salvezi ca ro.json în lang/ și fișierul README.md, salvandu-l ca README_ro.md<br>
+3.Dacă știți  sa utilizati Github, creați un pull request, dacă nu încărcați fișierele pe discord pe canalul de traduceri Romanian și dați ping la unul dintre Devs (rolul Devs)
+<h3>Mai multe informații</h3>
+Nu editați tag-uri sau cod (ex. &lt;b&gt;)<br>
+Dacă intampinati probleme va rugam sa ne contactați pe discord (<a href="https://discord.gg/8HXwg4d">https://discord.gg/8HXwg4d</a>) sau email: enforeal.devs@gmail.com

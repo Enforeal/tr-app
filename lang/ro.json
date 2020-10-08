@@ -1,0 +1,13 @@
+{
+    "langNmae": "Romanian",
+    "title": "Enfo Translation Exemplu",
+    "pages": [
+        {
+            "id": "mainPage",
+            "h1_title": "EnfoTranslation",
+            "footer": "Toate drepturile rezervate - Enforeal 2020",
+            "aditional_files": ["ro_text_1.txt"]
+        }
+    ],
+    "translator": "Ezzer29"
+}

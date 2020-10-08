@@ -1,0 +1,15 @@
+{
+  "name": "tr-app",
+  "version": "1.0.0",
+  "description": "An example for enfo translation",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Ezzer29",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^10.1.3",
+    "jquery": "^3.5.1"
+  }
+}

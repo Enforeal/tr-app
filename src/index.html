@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <title id="page-title">Enfo Translation Example</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="cl-cont">
+        <img class="cl-en cl-lang-flag" src="./flags/us.svg" onclick="loadLang('en')">
+        <img class="cl-de cl-lang-flag" src="./flags/de.svg" onclick="loadLang('de')">
+        <img class="cl-ir cl-lang-flag" src="./flags/ir.svg" onclick="loadLang('fa')">
+        <img class="cl-ro cl-lang-flag" src="./flags/ro.svg" onclick="loadLang('ro')">
+    </div>
+    <div class="main-screen">
+        <div class="lang-alert-main-cont">
+            <div class="lang-cont">
+                <div class="lang">
+                    <img class="lang-flag" src="./flags/us.svg" onclick="loadLang('en')">
+                    <img class="lang-flag" src="./flags/de.svg" onclick="loadLang('de')">
+                    <img class="lang-flag" src="./flags/ir.svg" onclick="loadLang('fa')">
+                    <img class="lang-flag" src="./flags/ro.svg" onclick="loadLang('ro')">
+                </div>
+            </div>
+        </div>
+        <div class="home-screen">
+            <div class="hs-title"><h1 id="h1-title">EnfoTranslation</h1></div>
+            <div class="hs-text-1" id="h1-text-1">
+                <h3>What we do...</h3>
+                We Translate Stuff...
+                <h3>How to use? (if you are an enfo translator)</h3>
+                1. Fork the repo from Github (or just clone if you dont know how Github works)<br>
+                2. Edit en.json and the additional files form lang/ and save it as ur_lang.json in lang/ and README.md as README_urlang.md (e.g. lang/ro.json README_ro.md)<br>
+                3. If you know how to use Github make a pull request on Github, if you dont just post the file on your translation lang channel on discord and ping one of the devs
+                <h3>More Info</h3>
+                Do not edit tags or code (e.g. &lt;b&gt;)<br>
+                If you encouter problems please contact the devs on discord (<a href="https://discord.gg/8HXwg4d">https://discord.gg/8HXwg4d</a>) or email: enforeal.devs@gmail.com
+            </div>
+        </div>
+    </div>
+
+    <div class="footer" id="footer">
+        All rights reserved - Enforeal 2020 
+    </div>
+    
+    <script src="./index.js"></script>
+</body>
+</html>

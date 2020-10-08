@@ -1,0 +1,126 @@
+html, body {
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-screen {
+    flex: 1;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.lang-alert-main-cont {
+    width: 100%;
+    height: 100%;
+    background: rgb(16, 16, 16, .9);
+    position: fixed;
+}
+
+.lang-cont {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lang {
+    display: inline;
+    background: #363636;
+    padding: 30px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.lang-flag {
+    width: 100px;
+    margin: 15px;
+    transition: .2s;
+}
+
+.lang-flag:hover {
+    width: 120px;
+    margin: 5px;
+}
+
+.home-screen {
+    width: 100%;
+    height: 100%;
+    background: #363636;
+    margin: 0 auto;
+    text-align: center;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.hs-title {
+    color: white;
+    font-family: 'Roboto Slab';
+    font-weight: 900;
+    text-shadow: 0px 3px gray;
+}
+
+.hs-text-1 {
+    color: #262626;
+    background: gray;
+    width: 60%;
+    text-align: justify;
+    padding: 30px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    border-radius: 5px;
+    font-family: 'Roboto Mono';
+    padding-top: 15px;
+    box-shadow: 0px 10px #565656;
+}
+
+a {
+    color: white;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    box-sizing: border-box;
+    color: white;
+    background: #161616;
+    width: 100%;
+    font-family: 'Roboto Slab';
+}
+
+.cl-cont {
+    display: flex;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    padding: 5px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background: #565656;
+}
+
+.cl-lang-flag {
+    width: 35px;
+    margin: 10px;
+    filter: grayscale(90%);
+    transition: .2s;
+    cursor: pointer;
+}
+
+.cl-lang-flag:hover {
+    width: 45px;
+    margin: 5px;
+    filter: grayscale(0%);
+}

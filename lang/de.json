@@ -1,0 +1,13 @@
+{
+    "langNmae": "Deutsch",
+    "title": "Enfo Übersetzungs Vorlage",
+    "pages": [
+        {
+            "id": "mainPage",
+            "h1_title": "EnfoÜbersetzung",
+            "footer": "Alle Rechte vorbehalten - Enforeal 2020",
+            "additional_files": ["de_text_1.txt"]
+        }
+    ],
+    "translator": "Nuggets"
+}

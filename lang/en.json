@@ -1,0 +1,13 @@
+{
+    "langNmae": "English",
+    "title": "Enfo Translation Example",
+    "pages": [
+        {
+            "id": "mainPage",
+            "h1_title": "EnfoTranslation",
+            "footer": "All rights reserved - Enforeal 2020",
+            "additional_files": ["en_text_1.txt"]
+        }
+    ],
+    "translator": "Ezzer29"
+}

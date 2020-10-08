@@ -1,0 +1,10 @@
+<h3>Was wier tun...</h3>
+Wier übersetzen Sachen für Sie...
+<h3>Wie kann man es benutzen (wenn Sie ein Übersetzer sind)?</h3>
+1. Fork das Repo von Github (oder klonen Sie einfach, wenn Sie nicht wissen, wie Github funktioniert)<br>
+2. Bearbeiten Sie en.json und die zusätzlichen Dateien aus lang / und speichern Sie sie als ur_lang.json in lang / und README.md als README_ihreSprache.md (z. B. lang / ro.json README_ro.md)<br>
+3. Wenn Sie wissen, wie man Github benutzt, stellen Sie eine Pull-Anfrage an Github, wenn Sie die Datei nicht einfach auf Zwietracht in Ihrem Übersetzungskanal posten und einen der Entwickler anpingen
+<h3>Mehr Info</h3>
+Bitte keine tags bearbeiten (z.B. &lt;b&gt;)<br>
+Wenn Sie auf Probleme stoßen, wenden Sie sich bitte an die Entwickler unter Zwietracht (<a href="https://discord.gg/8HXwg4d"> https://discord.gg/8HXwg4d </a>) oder per E-Mail an: enforeal.devs@gmail. com
+© 2020 GitHub, Inc.

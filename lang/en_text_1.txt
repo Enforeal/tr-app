@@ -1,0 +1,9 @@
+<h3>What we do...</h3>
+We Translate Stuff...
+<h3>How to use? (if you are an enfo translator)</h3>
+1. Fork the repo from Github (or just clone if you dont know how Github works)<br>
+2. Edit en.json and the aditional files form lang/ and save it as ur_lang.json in lang/ and README.md as README_urlang.md (e.g. lang/ro.json README_ro.md)<br>
+3. If you know how to use Github make a pull request on Github, if you dont just post the file on your translation lang channel on discord and ping one of the devs
+<h3>More Info</h3>
+Do not edit tags or code (e.g. &lt;b&gt;)<br>
+If you encouter problems please contact the devs on discord (<a href="https://discord.gg/8HXwg4d">https://discord.gg/8HXwg4d</a>) or email: enforeal.devs@gmail.com

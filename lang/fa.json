@@ -1,0 +1,13 @@
+{
+    "langNmae": "Persian",
+    "title": "Enfo مثال ترجمه",
+    "pages": [
+        {
+            "id": "mainPage",
+            "h1_title": "Enfo ترجمه",
+            "footer": "تمام حقوق محفوظ است - Enforeal 2020",
+            "additional_files": ["fa_text_1.txt"]
+        }
+    ],
+    "translator": "Mad"
+}
